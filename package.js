@@ -10,6 +10,6 @@ Package.onUse(function(api) {
 
   api.use('jquery');
 
-  api.addFiles('contextMenu/contextMenu.min.js', 'client');
-  api.addFiles('contextMenu/contextMenu.css', 'client');
+  api.addFiles('contextMenu.min.js', 'client');
+  api.addFiles('contextMenu.css', 'client');
 });
