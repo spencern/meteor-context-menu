@@ -1,7 +1,7 @@
 Package.describe({
   name: 'spencern:context-menu',
   summary: 'Meteor package for Sudhanshu Yadav\'s contextMenu.js',
-  version: '1.1.2',
+  version: '1.1.3',
   git: 'http://github.com/spencern/meteor-context-menu.git'
 });
 
